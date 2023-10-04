@@ -8,7 +8,7 @@ The rgb_images folder contains 100 rgb images and their labels in labels.csv. Th
 ## Deep Labeling of fMRI Brain Networks
 The data and code provided here was used in the work titled "Deep Labeling of fMRI Brain Networks," arXiv link: https://arxiv.org/abs/2305.03814
 
-###Authors
+### Authors
 
 Ammar Ahmed Pallikonda Latheef (1) | Email: apallik1@jh.edu
 
