@@ -10,18 +10,18 @@ The data and code provided here was used in the work titled "Deep Labeling of fM
 
 ### Authors
 
-Ammar Ahmed Pallikonda Latheef (1) | Email: apallik1@jh.edu
+Ammar Ahmed Pallikonda Latheef | Email: apallik1@jh.edu
 
-Sejal Ghate (2) | Email: sejal.ghate@zeiss.com
+Sejal Ghate | Email: sejal.ghate@zeiss.com
 
-Zhipeng Hui (1) | Email: zhui2@jhu.edu
+Zhipeng Hui | Email: zhui2@jhu.edu
 
-Alberto Santamaria-Pang (3) | Email: alberto.santamariapang@microsoft.com
+Alberto Santamaria-Pang | Email: alberto.santamariapang@microsoft.com
 
-Ivan Tarapov (3) | Email: ivan.tarapov@microsoft.com
+Ivan Tarapov | Email: ivan.tarapov@microsoft.com
 
-Haris I Sair (4 and 5) | Email: hsair1@jhmi.edu
+Haris I Sair | Email: hsair1@jhmi.edu
 
-Craig K Jones (1, 4 and 5) | Email: craigj@jhu.edu
+Craig K Jones | Email: craigj@jhu.edu
 
 
